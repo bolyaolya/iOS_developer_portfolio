@@ -9,6 +9,6 @@ This Threads Clone project is not affiliated with or endorsed by Threads or any 
 
 ##### 🔨Technologies: SwiftUI, MVVM, Firebase, Kingfisher Push Notifications, .
 ##### 🚀Platform: 📱iOS.
-<p align="center">
+
 ![Screenshots of Threads Clone](https://github.com/bolyaolya/iOS_developer_portfolio/assets/108070285/01d16bae-ffbf-4e7c-9062-7506f6b34918)
-</p>
+
